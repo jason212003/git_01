@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Jason leon"
-date: "summer semester"
+author: "Jason Leon"
+date: "Summer Semester"
 output: html_document
 ---
 
